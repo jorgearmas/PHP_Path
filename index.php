@@ -49,5 +49,8 @@
             echo $p1.' '.$p2;
         ?>
     </h1>
+    <ul>
+        <li><a href="./_02_constants_variables_variables.php">Constants</a></li>
+    </ul>
 </body>
 </html>
