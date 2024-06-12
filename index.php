@@ -55,6 +55,7 @@
         <li><a href="./_04_boolean_data_types.php">Boolean data type</a></li>
         <li><a href="./_05_integer_data_types.php">Integer data type</a></li>
         <li><a href="./_06_float_data_types.php">Float data type</a></li>
+        <li><a href="./_07_string_data_types.php">String data type</a></li>
     </ul>
 </body>
 </html>
