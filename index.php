@@ -50,7 +50,8 @@
         ?>
     </h1>
     <ul>
-        <li><a href="./_02_constants_variables_variables.php">Constants</a></li>
+        <li><a href="./_02_constants_variables_variables.php">Constants and variables variables</a></li>
+        <li><a href="./_03_data_types_typecasting.php">Data types and typecasting</a></li>
     </ul>
 </body>
 </html>
