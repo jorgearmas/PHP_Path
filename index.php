@@ -52,6 +52,7 @@
     <ul>
         <li><a href="./_02_constants_variables_variables.php">Constants and variables variables</a></li>
         <li><a href="./_03_data_types_typecasting.php">Data types and typecasting</a></li>
+        <li><a href="./_04_boolean_data_types.php">Boolean data type</a></li>
     </ul>
 </body>
 </html>
