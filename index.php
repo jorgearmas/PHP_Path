@@ -53,7 +53,8 @@
         <li><a href="./_02_constants_variables_variables.php">Constants and variables variables</a></li>
         <li><a href="./_03_data_types_typecasting.php">Data types and typecasting</a></li>
         <li><a href="./_04_boolean_data_types.php">Boolean data type</a></li>
-        <li><a href="./_05_integer_data_types.php">Integer data types</a></li>
+        <li><a href="./_05_integer_data_types.php">Integer data type</a></li>
+        <li><a href="./_06_float_data_types.php">Float data type</a></li>
     </ul>
 </body>
 </html>
