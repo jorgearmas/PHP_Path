@@ -57,6 +57,8 @@
         <li><a href="./_06_float_data_types.php">Float data type</a></li>
         <li><a href="./_07_string_data_types.php">String data type</a></li>
         <li><a href="./_08_null_data_types.php">Null data type</a></li>
+        <li><a href="./_09_array_data_types.php">Array data type</a></li>
+
     </ul>
 </body>
 </html>
