@@ -59,6 +59,7 @@
         <li><a href="./_08_null_data_types.php">Null data type</a></li>
         <li><a href="./_09_array_data_types.php">Array data type</a></li>
         <li><a href="./_10_expressions.php">Expressions</a></li>
+        <li><a href="./_11_operators.php">Operators</a></li>
     </ul>
 </body>
 </html>
