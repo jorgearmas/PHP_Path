@@ -62,6 +62,7 @@
         <li><a href="./_11_operators.php">Operators</a></li>
         <li><a href="./_12_conditionals.php">Conditionals</a></li>
         <li><a href="./_13_loops.php">Loops</a></li>
+        <li><a href="./_14_switch.php">Switch</a></li>
     </ul>
 </body>
 </html>
