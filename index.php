@@ -68,6 +68,7 @@
         <li><a href="./_17_include_files.php">Include files</a></li>
         <li><a href="./_18_functions.php">Functions</a></li>
         <li><a href="./_19_named_args_varadic_functions.php">Named arguments and variadic functions</a></li>
+        <li><a href="./_20_variable_scopes.php">Variable Scopes</a></li>
     </ul>
 </body>
 </html>
