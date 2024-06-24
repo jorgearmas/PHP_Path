@@ -71,6 +71,7 @@
         <li><a href="./_20_variable_scopes.php">Variable Scopes</a></li>
         <li><a href="./_21_variable_callable_closure_arrow_functions.php">Variable, callable, closure and arrow functions</a></li>
         <li><a href="./_22_date_and_time_zones.php">Date and Time</a></li>
+        <li><a href="./_23_array_mngmt.php">Array management</a></li>
     </ul>
 </body>
 </html>
