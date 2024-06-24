@@ -69,6 +69,7 @@
         <li><a href="./_18_functions.php">Functions</a></li>
         <li><a href="./_19_named_args_varadic_functions.php">Named arguments and variadic functions</a></li>
         <li><a href="./_20_variable_scopes.php">Variable Scopes</a></li>
+        <li><a href="./_21_variable_callable_closure_arrow_functions.php">Variable, callable, closure and arrow functions</a></li>
     </ul>
 </body>
 </html>
